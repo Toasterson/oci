@@ -1,4 +1,4 @@
-module oci
+module github.com/toasterson/oci
 
 go 1.15
 
